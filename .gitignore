@@ -241,6 +241,10 @@ figures/
 plots/
 reports/generated/
 
+# Allow tracking curated figures used in README
+!reports/figures/
+!reports/figures/**
+
 # Temporary files
 temp/
 tmp/
