@@ -131,19 +131,27 @@ jupyter notebook
 <div align="center">
 
 ### 🏛️ **Survival by Passenger Class**
-![Survival by Passenger Class](reports/figures/11_survival_by_passenger_class.png)
+<div align="center">
+<img src="reports/figures/11_survival_by_passenger_class.png" alt="Survival by Passenger Class" width="600" />
+</div>
 *Clear correlation between socioeconomic status and survival rates*
 
 ### 👨‍👩‍👧‍👦 **Gender-Based Survival Analysis** 
-![Survival by Gender](reports/figures/12_survival_by_gender.png)
+<div align="center">
+<img src="reports/figures/12_survival_by_gender.png" alt="Survival by Gender" width="600" />
+</div>
 *Gender disparity in survival rates - "Women and children first" protocol*
 
 ### 🗺️ **Geographic Survival Patterns**
-![Survival by Embarkation Port](reports/figures/13_survival_by_embarkation_port.png)
+<div align="center">
+<img src="reports/figures/13_survival_by_embarkation_port.png" alt="Survival by Embarkation Port" width="600" />
+</div>
 *Different survival rates by embarkation port and passenger composition*
 
 ### 🔗 **Correlation Analysis**
-![Correlation with Survival Heatmap](reports/figures/18_correlation_with_survival_heatmap.png)
+<div align="center">
+<img src="reports/figures/18_correlation_with_survival_heatmap.png" alt="Correlation with Survival Heatmap" width="600" />
+</div>
 *Comprehensive correlation analysis showing relationships with survival*
 
 </div>
